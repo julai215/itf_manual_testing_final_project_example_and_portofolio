@@ -11,6 +11,11 @@ Test analysis has been performed and the test conditions were found, from which 
 
 ![image](https://user-images.githubusercontent.com/99291143/163687093-6f1780d1-2808-4038-9ae2-65c22540a55c.png)
 
+## Test Planning
+
+## Test Analysis
+
+The testing process will be executed based on the above requirements on the Dependents module.
 
 ## Test Design
 
@@ -18,6 +23,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are boundary value analysis, equivalence partitioning and use case testing.
 
 Test cases:
+![image](https://user-images.githubusercontent.com/99291143/163688817-5faeed9a-a8d1-461b-b6f6-c578a4cdf7ee.png)
+
  *  [dependents page] Verify how many dependents can be added
  *  [save button] Verify that user can save information when dependent is edited
  *  [cancel button] Verify that user can cancel action when edit dependent
