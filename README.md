@@ -38,16 +38,13 @@ __SQL__
 
 ## Examples of my work
 
-### <font color="red">Final project for ITF Manual Testing Course<font>
+### Final project for ITF Manual Testing Course
 
 ### Student registration form - functional testing
 
 Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
 
-__User story specifications__
-
-![image](https://user-images.githubusercontent.com/99291143/163685676-33e16f9d-1295-433a-a1eb-c1ef64a124e5.png)
-
+User story specifications, test cases, test results and bug reports can be found here: 
 
 
 ### Exploratory testing on academybugs.com
