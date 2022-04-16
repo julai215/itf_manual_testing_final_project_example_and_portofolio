@@ -84,5 +84,8 @@ are boundary value analysis, equivalence partitioning and use case testing.
 
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_test_cases.pdf)
 
+For the Dependants API, the following checklist was generated: 
+
+
 
 # SQL section
