@@ -22,9 +22,9 @@ The testing process will be executed based on the above requirements on the Depe
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are boundary value analysis, equivalence partitioning and use case testing.
 
-Test cases:
+**Test cases:**
 
-![image](https://user-images.githubusercontent.com/99291143/163688885-513a9f7e-55b4-464e-97e1-f7a5b0db94e5.png)
+![image](https://user-images.githubusercontent.com/99291143/163688901-26234e0a-abfa-4034-93bf-bca37ad2b50c.png)
 
 
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_test_cases.pdf)
