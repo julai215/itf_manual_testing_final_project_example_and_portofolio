@@ -87,5 +87,19 @@ The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https:
 For the Dependants API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/API_test_checklist.csv)
 
 
+## Test Implementation
+
+The following elements are needed to be ready before the test execution phase begins:
+
+* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created 
+* Test cases were added to the cycle summary
+* Postman collection with the dependents API methods was created 
+* Authorization token was created for accessing the API
+
+## Test Execution
+
+
 
 # SQL section
