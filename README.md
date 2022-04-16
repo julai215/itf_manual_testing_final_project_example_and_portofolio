@@ -45,6 +45,7 @@ __SQL__
 Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
 
 __User story specifications__
+
 ![image](https://user-images.githubusercontent.com/99291143/163685676-33e16f9d-1295-433a-a1eb-c1ef64a124e5.png)
 
 
