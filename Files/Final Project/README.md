@@ -1,6 +1,7 @@
 # Final project for ITF Manual Testing Course
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
+SUT: https://opensource-demo.orangehrmlive.com/
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench. 
 
@@ -13,13 +14,48 @@ Test analysis has been performed and the test conditions were found, from which 
 
 ## Test Planning
 
-#### Roles assigned to the project
+The Test Plan is designed to prescribe the scope, approach, resources, and schedule of all testing activities of the Dependants module from the OrangeHRM application. 
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+
+#### Roles assigned to the project and persons allocated
+
+* Project manager - Andrei Popescu
+* Product owner - Madalina Ionescu
+* Software developer - Gabriela Tomescu
+* QA Engineer - Iulia Albu
 
 #### Entry criteria defined
 
+* functional specifications are defined
+* roles needed for the project are allocated
+* initial project risks were detected and mitigated
+
 #### Exit criteria defined
 
-### Test planning document
+* number of unresolved bugs is insignificant or they have low priority
+* all tests have been executed
+* all resolved bugs have been re-tested and approved by the QA team
+* deadline was reached
+* no detected major risk remained un-mitigated
+
+#### Test scope
+
+Tests in scope: All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+Tests not in scope: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+
+#### Risks detected
+
+Project risks: lack of experience of the QA team
+Product risks: N/A
+
+## Test Monitoring and Control
+
+It will be done by generating periodic reports that reflect the current status of the test.
+Example report:
+
+![image](https://user-images.githubusercontent.com/99291143/163689699-e0295daa-e5dc-4e87-a984-546d9351fbac.png)
+
 
 ## Test Analysis
 
