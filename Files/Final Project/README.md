@@ -23,7 +23,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are boundary value analysis, equivalence partitioning and use case testing.
 
 Test cases:
-![image](https://user-images.githubusercontent.com/99291143/163688817-5faeed9a-a8d1-461b-b6f6-c578a4cdf7ee.png)
+
+![image](https://user-images.githubusercontent.com/99291143/163688861-b49ef45a-156c-44a1-a2b3-0f68526205c4.png)
 
  *  [dependents page] Verify how many dependents can be added
  *  [save button] Verify that user can save information when dependent is edited
