@@ -1,4 +1,4 @@
-# 0 Final project for ITF Manual Testing Course
+# Final project for ITF Manual Testing Course
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 SUT: https://opensource-demo.orangehrmlive.com/
@@ -109,5 +109,14 @@ The following elements are needed to be ready before the test execution phase be
     *  Relationship "parent" is missing
 * API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
 * Full regression testing is needed after the bugs are fixed
+
+## 1.7 Test Completion
+
+* Exit criteria was evaluated and passed
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Traceability_matrix.xlsx)
+* Test execution chart was generated, the final report shows that a number 5 testsn have failed of a total of 23 
+
+![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
+
 
 # 2 SQL section
