@@ -3,7 +3,7 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 SUT: https://opensource-demo.orangehrmlive.com/
 
-The final project will be split into 2 sections: Testing section and SQL section.
+The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#2-sql-section).
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench. 
 
