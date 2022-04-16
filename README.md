@@ -37,3 +37,9 @@ __SQL__
 * MySQL Workbench
 
 ## Examples of my work
+
+### Final project for ITF Manual Testing Course
+
+### Exploratory testing on academybugs.com
+
+Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: 
