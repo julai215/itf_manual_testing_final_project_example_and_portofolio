@@ -2,6 +2,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 SUT: https://opensource-demo.orangehrmlive.com/
+API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#2-sql-section).**
 
@@ -120,3 +121,5 @@ The following elements are needed to be ready before the test execution phase be
 
 
 # 2 SQL section
+
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/dependents.sql)
