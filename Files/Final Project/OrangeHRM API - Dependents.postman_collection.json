@@ -1,0 +1,238 @@
+{
+	"info": {
+		"_postman_id": "91866c72-f426-49dc-bf11-2c709c89b742",
+		"name": "OrangeHRM API - Dependents",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Authorization",
+			"item": [
+				{
+					"name": "getAccessToken",
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"exec": [
+									" \r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// get the response body \r",
+									"var res_body = pm.response.json();\r",
+									"\r",
+									"// verify that the response body contains the access_token\r",
+									"pm.test(\"Response body contains the access_token property\",() => {\r",
+									"  pm.expect(res_body).to.have.property('access_token');\r",
+									"});\r",
+									"\r",
+									"// set a variable for authorization token\r",
+									"pm.environment.set(\"auth_token\", `Bearer ${res_body.access_token}`);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"grant_type\": \"client_credentials\",\r\n    \"client_id\": \"test_api_itf\",\r\n    \"client_secret\": \"test1234\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://opensource-demo.orangehrmlive.com/oauth/issueToken",
+							"protocol": "https",
+							"host": [
+								"opensource-demo",
+								"orangehrmlive",
+								"com"
+							],
+							"path": [
+								"oauth",
+								"issueToken"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Employee - Dependents",
+			"item": [
+				{
+					"name": "getEmployeeDependents",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer 634883438ba9e3a01a10866d7c31a6481f2552d0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://opensource-demo.orangehrmlive.com/api/v1/employee/7/dependent",
+							"protocol": "https",
+							"host": [
+								"opensource-demo",
+								"orangehrmlive",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"employee",
+								"7",
+								"dependent"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "saveEmployeeDependent",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer 634883438ba9e3a01a10866d7c31a6481f2552d0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"testheyyy\",\r\n    \"relationship\": \"testrst\",\r\n    \"dob\": \"1000-10-10\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://opensource-demo.orangehrmlive.com/api/v1/employee/7/dependent",
+							"protocol": "https",
+							"host": [
+								"opensource-demo",
+								"orangehrmlive",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"employee",
+								"7",
+								"dependent"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateEmployeeDependent",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer 634883438ba9e3a01a10866d7c31a6481f2552d0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"testheyyy\",\r\n    \"relationship\": \"testrst\",\r\n    \"dob\": \"1000-10-10\",\r\n    \"sequenceNumber\": \"1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://opensource-demo.orangehrmlive.com/api/v1/employee/7/dependent",
+							"protocol": "https",
+							"host": [
+								"opensource-demo",
+								"orangehrmlive",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"employee",
+								"7",
+								"dependent"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteEmployeeDependant",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer 634883438ba9e3a01a10866d7c31a6481f2552d0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"sequenceNumber\": \"1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://opensource-demo.orangehrmlive.com/api/v1/employee/7/dependent",
+							"protocol": "https",
+							"host": [
+								"opensource-demo",
+								"orangehrmlive",
+								"com"
+							],
+							"path": [
+								"api",
+								"v1",
+								"employee",
+								"7",
+								"dependent"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
