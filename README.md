@@ -38,7 +38,7 @@ __SQL__
 
 ## Examples of my work
 
-### Final project for ITF Manual Testing Course
+### <font color="red">Final project for ITF Manual Testing Course<font>
 
 ### Student registration form - functional testing
 
