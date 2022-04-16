@@ -40,6 +40,15 @@ __SQL__
 
 ### Final project for ITF Manual Testing Course
 
+### Student registration form - functional testing
+
+Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
+
+__User story specifications__
+![image](https://user-images.githubusercontent.com/99291143/163685676-33e16f9d-1295-433a-a1eb-c1ef64a124e5.png)
+
+
+
 ### Exploratory testing on academybugs.com
 
 Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [academybugs reports](https://github.com/julai215/itf_final_project_example/blob/main/Files/academybugs.pdf)
