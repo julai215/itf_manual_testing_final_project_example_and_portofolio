@@ -103,6 +103,11 @@ The following elements are needed to be ready before the test execution phase be
 * Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_cycle_summary_execution.pdf)
 * Bugs have been created based on the failed tests. The complete bug reposrts can be found here: [Dependents_created_bugs.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_created_bugs.pdf)
     *  Date format is not dd/mm/yyyy
+    *  Future "Date of Birth" can be selected from calendar
+    *  Only 50 characters are allowed for "Please Specify" field
+    *  Only 50 characters are allowed for "Name" field
+    *  Relationship "parent" is missing
 * API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
+* Full regression testing is needed after the bugs are fixed
 
 # 2 SQL section
