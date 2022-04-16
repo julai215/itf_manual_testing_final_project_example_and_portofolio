@@ -42,4 +42,4 @@ __SQL__
 
 ### Exploratory testing on academybugs.com
 
-Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: 
+Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [academybugs reports](https://github.com/julai215/itf_final_project_example/blob/main/Files/academybugs.pdf)
