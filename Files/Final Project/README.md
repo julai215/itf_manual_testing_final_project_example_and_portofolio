@@ -100,6 +100,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ## Test Execution
 
-
+* Test cases have been executed based on the created test Cycle summary
+* Bugs have been created based on the failed tests
+* API tests have been executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
 
 # SQL section
