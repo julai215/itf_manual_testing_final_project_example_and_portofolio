@@ -15,7 +15,13 @@ Test analysis has been performed and the test conditions were found, from which 
 
 ## Test Analysis
 
-The testing process will be executed based on the above requirements on the Dependents module.
+The testing process will be executed based on the above requirements on the Dependents module. The following test conditions were found:
+ * Enter data only for mandatory fields and check that the dependant is created/updated
+ * Enter data for all available fields and check that the dependant is created/updated
+ * Leave mandatory fields empty and check that the dependant cannot be created/updated
+ * View dependant details and check they are correct
+ * View all dependants in a list
+ * Check all validation constraints for the fields
 
 ## Test Design
 
