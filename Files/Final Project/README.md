@@ -18,7 +18,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are boundary value analysis, equivalence partitioning and use case testing.
 
 Test cases:
- * [dependents page] Verify how many dependents can be added
+ *  [dependents page] Verify how many dependents can be added
  *  [save button] Verify that user can save information when dependent is edited
  *  [cancel button] Verify that user can cancel action when edit dependent
  *  [cancel button] Verify that user can cancel action when all fields are completed
@@ -39,7 +39,7 @@ Test cases:
  *  [field Relationship] Verify that a dependent can be added with relationship 'Other'.
  *  [delete] Verify that a dependent entry can be deleted
  *  [field NAME] Verify that a dependent name can be edited
- *  [field Relationship] Verify that a dependent can be added with relationship 'Child'
+ *  [field Relationship] Verify that a dependent can be added with relationship 'Child'
 
 
 
