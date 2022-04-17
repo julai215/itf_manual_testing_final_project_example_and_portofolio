@@ -121,6 +121,8 @@ The following elements are needed to be ready before the test execution phase be
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
 * Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
+* A number of 23 test cases were planned for execution and all of them were executed
+* A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
 
 ![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
 
