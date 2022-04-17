@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench. 
 
@@ -88,9 +88,9 @@ are boundary value analysis, equivalence partitioning and use case testing.
 ![image](https://user-images.githubusercontent.com/99291143/163688901-26234e0a-abfa-4034-93bf-bca37ad2b50c.png)
 
 
-The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_test_cases.pdf)
+The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_test_cases.pdf)
 
-For the Dependants API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/API_test_checklist.csv)
+For the Dependants API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/API_test_checklist.csv)
 
 
 ## 1.5 Test Implementation
@@ -106,20 +106,20 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_cycle_summary_execution.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Dependents_created_bugs.pdf)
+* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_cycle_summary_execution.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_created_bugs.pdf)
     *  Date format is not dd/mm/yyyy
     *  Future "Date of Birth" can be selected from calendar
     *  Only 50 characters are allowed for "Please Specify" field
     *  Only 50 characters are allowed for "Name" field
     *  Relationship "parent" is missing
-* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
+* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
 * Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Traceability_matrix.xlsx)
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
 * Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
 
 ![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
@@ -127,4 +127,4 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/dependents.sql)
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/dependents.sql)
