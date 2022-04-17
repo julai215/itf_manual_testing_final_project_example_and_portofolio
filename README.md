@@ -40,6 +40,8 @@ __SQL__
 
 ### Final project for ITF Manual Testing Course
 
+The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/julai215/itf_final_project_example_and_portofolio/tree/main/Files/Final%20Project)
+
 ### Student registration form - functional testing
 
 Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
