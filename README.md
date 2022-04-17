@@ -40,7 +40,9 @@ __SQL__
 
 ### Final project for ITF Manual Testing Course
 
-The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/julai215/itf_final_project_example_and_portofolio/tree/main/Files/Final%20Project)
+The final project consisted of choosing a module from an application and start the testing process based on business specifications, from Test Planning until Test Completion.
+
+The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/julai215/itf_final_project_example_and_portofolio/tree/main/Final%20Project)
 
 ### Student registration form - functional testing
 
@@ -51,4 +53,4 @@ User story specifications, test cases, test results and bug reports can be found
 
 ### Exploratory testing on academybugs.com
 
-Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [academybugs reports](https://github.com/julai215/itf_final_project_example/blob/main/Files/academybugs.pdf)
+Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [academybugs reports](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Academybugs/academybugs.pdf)
