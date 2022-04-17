@@ -118,7 +118,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.7 Test Completion
 
-* Exit criteria was evaluated and passed
+* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
 * Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
 * A number of 23 test cases were planned for execution and all of them were executed
