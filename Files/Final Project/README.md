@@ -52,7 +52,7 @@ Tests not in scope: performance testing, integrations of the dependents module w
 
 #### 1.1.5 Risks detected
 
-Project risks: lack of experience of the QA team
+Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial
 Product risks: N/A
 
 ## 1.2 Test Monitoring and Control
