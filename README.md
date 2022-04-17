@@ -54,3 +54,8 @@ User story specifications, test cases, test results and bug reports can be found
 ### Exploratory testing on academybugs.com
 
 Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [academybugs reports](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Academybugs/academybugs.pdf)
+
+### Exploratory testing on https://qa-practice.netlify.app/bugs-form.html
+
+Performed exploratory testing on academybugs.com. Found bugs were reported here: [qa-practice-bugs-form](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/qa-practice-bugs-form/Reported%20Bugs.md)
+
