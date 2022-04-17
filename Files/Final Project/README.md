@@ -47,13 +47,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-Tests in scope: All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
-Tests not in scope: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
-Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial
-Product risks: N/A
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial
+* Product risks: N/A
 
 ## 1.2 Test Monitoring and Control
 
