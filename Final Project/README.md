@@ -53,7 +53,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, since the testing environment is public and free to use it is unstable at certain times
 * Product risks: N/A
 
 #### 1.1.6 Evaluating entry criteria
