@@ -48,7 +48,7 @@ The test plan, test cases, bugs, test results for the final project can be found
 
 Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
 
-User story specifications, test cases, test results and bug reports can be found here: 
+User story specifications, test cases, test results and bug reports can be found here: [Student Registration Form](https://github.com/julai215/itf_final_project_example_and_portofolio/tree/main/Student%20Registration%20Form)
 
 
 ### Exploratory testing on academybugs.com
