@@ -11,7 +11,6 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 
 The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. 
-Test analysis has been performed and the test conditions were found, from which the test cases are derived below. 
 
 ![image](https://user-images.githubusercontent.com/99291143/163687093-6f1780d1-2808-4038-9ae2-65c22540a55c.png)
 
@@ -54,6 +53,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial
 * Product risks: N/A
+
+#### 1.1.6 Evaluating entry criteria
+
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
@@ -115,7 +118,7 @@ The following elements are needed to be ready before the test execution phase be
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Files/Final%20Project/Traceability_matrix.xlsx)
-* Test execution chart was generated, the final report shows that a number 5 testsn have failed of a total of 23 
+* Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
 
 ![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
 
